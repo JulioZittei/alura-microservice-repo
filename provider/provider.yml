@@ -1,7 +1,7 @@
 spring:
   datasource:
-    password: @Teste123
-    username: teste
+    password: '@Teste123'
+    username: 'teste'
     url: jdbc:mysql://localhost:3306/alura
 
   jpa:
